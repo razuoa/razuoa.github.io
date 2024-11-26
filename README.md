@@ -310,19 +310,19 @@
                     <img src="C1DC4E2C-BF29-40C3-A84C-EF9F9CD58CFF.jpg" alt="Picture 1">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG_9344.jpg" alt="Picture 2">
+                    <img src="IMG9344.jpg" alt="Picture 2">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG_9331.jpg" alt="Picture 3">
+                    <img src="IMG9331.jpg" alt="Picture 3">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG_9047.jpg" alt="Picture 1">
+                    <img src="IMG9047.jpg" alt="Picture 1">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG_6746.jpg" alt="Picture 2">
+                    <img src="IMG6746.jpg" alt="Picture 2">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG_6379.jpg" alt="Picture 3">
+                    <img src="IMG6379.jpg" alt="Picture 3">
                 </div>
             </div>
         </section>
