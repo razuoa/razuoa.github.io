@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Portfolio">
-    <title>html</title>
+    <title>Portfolio</title>
     <style>
         * {
             margin: 0;
@@ -28,6 +29,7 @@
             background-position: center center; 
             background-attachment: fixed; 
         }
+
 
         header {
             background-color: #313131;
@@ -280,7 +282,7 @@
         </header>
 
         <section class="profile">
-            <img src="IMG9190.jpg" alt="Your Image">
+            <img src="IMG_9190.jpg" alt="Your Image">
             <div class="bio">
                 <h2>About Me</h2>
                 <p>Hey there, I’m Yckho! 🎮✨ I’m all about creating and sharing cool content with you whether it’s streaming epic gameplay or showing off my latest drawings. 🖌️🎨 I’m here to bring you a mix of entertainment, creativity, and some good vibes. Let’s hang out, have some fun, and get inspired together!</p>
@@ -310,19 +312,19 @@
                     <img src="C1DC4E2C-BF29-40C3-A84C-EF9F9CD58CFF.jpg" alt="Picture 1">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG9344.jpg" alt="Picture 2">
+                    <img src="IMG_9344.jpg" alt="Picture 2">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG9331.jpg" alt="Picture 3">
+                    <img src="IMG_9331.jpg" alt="Picture 3">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG9047.jpg" alt="Picture 1">
+                    <img src="IMG_9047.jpg" alt="Picture 1">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG6746.jpg" alt="Picture 2">
+                    <img src="IMG_6746.jpg" alt="Picture 2">
                 </div>
                 <div class="picture-box">
-                    <img src="IMG6379.jpg" alt="Picture 3">
+                    <img src="IMG_6379.jpg" alt="Picture 3">
                 </div>
             </div>
         </section>
