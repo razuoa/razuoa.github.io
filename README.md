@@ -280,7 +280,7 @@
         </header>
 
         <section class="profile">
-            <img src="IMG_9190.jpg" alt="Your Image">
+            <img src="IMG9190.jpg" alt="Your Image">
             <div class="bio">
                 <h2>About Me</h2>
                 <p>Hey there, I’m Yckho! 🎮✨ I’m all about creating and sharing cool content with you whether it’s streaming epic gameplay or showing off my latest drawings. 🖌️🎨 I’m here to bring you a mix of entertainment, creativity, and some good vibes. Let’s hang out, have some fun, and get inspired together!</p>
